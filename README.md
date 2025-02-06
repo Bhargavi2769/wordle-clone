@@ -32,25 +32,19 @@ Clone the repository:
 ### git clone https://github.com/Bhargavi2769/wordle-clone.git
 
 Navigate to the project directory:
-bash
-Copy
-Edit
 
-cd wordle-clone
+### cd wordle-clone
+
 
 Install the dependencies:
-bash
-Copy
-Edit
-npm install
+
+### npm install
 
 Running the Project
 To run the game locally, use the following command:
 
-bash
-Copy
-Edit
-npm start
+
+### npm start
 
 This will run the app in development mode and open it in your default browser at http://localhost:3000.
 
@@ -74,13 +68,13 @@ Increasing the word list size.
 Available Scripts
 In the project directory, you can run:
 
-npm start
+### npm start
 Runs the app in development mode. Open http://localhost:3000 to view it in your browser.
 
-npm test
+### npm test
 Launches the test runner in interactive watch mode.
 
-npm run build
+### npm run build
 Builds the app for production to the build folder. The app is ready to be deployed.
 
 npm run eject
