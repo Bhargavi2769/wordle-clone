@@ -28,10 +28,8 @@ npm (comes with Node.js)
 Installation
 
 Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/Bhargavi2769/wordle-clone.git
+
+### git clone https://github.com/Bhargavi2769/wordle-clone.git
 
 Navigate to the project directory:
 bash
